@@ -10,6 +10,6 @@ Task Completed
 
 Links
   - file:///Users/oljap./Desktop/HomeworkWeek1/index.html - website link
-  - 
+  - https://github.com/oljapriya/HomeworkWeek1 - resository link
 
 
