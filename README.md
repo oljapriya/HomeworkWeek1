@@ -9,7 +9,7 @@ Task Completed
   - Added descriptive title to a title element 
 
 Links
-  - file:///Users/oljap./Desktop/HomeworkWeek1/index.html - website link
+  - file:///Users/oljap./Desktop/HomeworkWeek1/index.html#search-engine-optimization - website link
   - https://github.com/oljapriya/HomeworkWeek1 - resository link
 
 
