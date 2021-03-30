@@ -8,5 +8,8 @@ Task Completed
   - Comments added to html elements
   - Added descriptive title to a title element 
 
+Links
+  - file:///Users/oljap./Desktop/HomeworkWeek1/index.html - website link
+  - 
 
 
