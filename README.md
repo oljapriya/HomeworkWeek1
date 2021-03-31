@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HomeworkWeek1
 ## Refactoring existing code
   - Refactoring existing code to meet a certain set of standards to make the site more accessible.
@@ -13,5 +14,10 @@ Task Completed
 Links
   - file:///Users/oljap./Desktop/HomeworkWeek1/index.html#search-engine-optimization - website link
   - https://github.com/oljapriya/HomeworkWeek1 - resository link
+=======
+
+
+
+>>>>>>> 1b1c74160b83d7723d15c39e917ebc7addb2bd9f
 
 
